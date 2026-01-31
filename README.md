@@ -10,6 +10,7 @@ Curated papers on VLM for Trajectory Prediction, including top-conference works 
 [1] TrajLLM: A Modular LLM-Enhanced Agent-Based Framework forRealistic Human Trajectory Simulation, 2025. [论文链接](https://dl.acm.org/doi/epdf/10.1145/3701716.3715201)
 
 ## 车辆预测
+[1] AutoVLA:AVision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning, 2025. [论文链接](https://arxiv.org/pdf/2506.13757)
 
 ## 数据集
 
